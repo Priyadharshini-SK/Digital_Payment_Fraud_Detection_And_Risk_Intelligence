@@ -37,13 +37,11 @@ Analyzes fraud from a customer and device perspective:
 - Specific age groups and regions show higher fraud concentration.
 - Fraud activity peaks during certain hours and transaction types.
 
-## Tools & Skills Used
-- Power BI
-- DAX (Measures & Calculated Columns)
-- Data Modeling
-- Data Visualization & Dashboard Design
-- Risk & Fraud Analysis
-
+## Tools 
+Business Intelligence (BI): Power BI (Desktop, Power Query, DAX)
+Data Source: CSV/Excel
+Version Control: Git / GitHub
+  
 ## Project Screenshots
 All dashboard screenshots are available in the **screenshots/** folder.
 
