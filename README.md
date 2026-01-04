@@ -43,7 +43,7 @@ Analyzes fraud from a customer and device perspective:
 - Version Control : Git / GitHub
   
 ## Project Screenshots
-All dashboard screenshots are available in the **screenshots/** folder.
+All dashboard screenshots are available in the **screenshots/ folder**, and the **dataset CSV** file is included in the repository.
 
 **This project demonstrates practical Power BI skills, analytical thinking, and the ability
 to convert raw transaction data into meaningful fraud insights.**
